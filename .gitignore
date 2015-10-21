@@ -1,0 +1,8 @@
+# OS specific stuff
+.DS_Store
+[Tt]humbs.db
+
+# Visual Studio
+.vs/
+bin/
+obj/
